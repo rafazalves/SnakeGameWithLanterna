@@ -22,16 +22,17 @@ assim como o nível de dificuldade, o tamanho inicial da cobra e o tamanho maxim
 **Multiplayer** - Haver um modo em que são permitidos dois jogadores em simultâneo, nesse modo ganha
 quem chegar primeiro a um X número de cerejas  
 **Ganhar Multiplayer** - Se um jogador embater contra outro jogador perde, tornando o outro jogador o vencedor
+https://github.com/rafazalves/SnakeGameWithLanterna/blob/main/docs/screenshots/SnakeTest.jpg
 
-![mainMenu](https://github.com/FEUP-LDTS-2021/ldts-project-assignment-g0302/blob/main/docs/screenshots/mainMenu.PNG)
-![tamanhoeScoreAumenta](https://github.com/FEUP-LDTS-2021/ldts-project-assignment-g0302/blob/main/docs/screenshots/tamanhoeScoreAumenta.PNG)
-![perdeEmbaterObstaculo](https://github.com/FEUP-LDTS-2021/ldts-project-assignment-g0302/blob/main/docs/screenshots/perdeEmbaterObstaculo.PNG)
-![levelWinMenu](https://github.com/FEUP-LDTS-2021/ldts-project-assignment-g0302/blob/main/docs/screenshots/levelWinMenu.PNG)
-![multiplayerJogo](https://github.com/FEUP-LDTS-2021/ldts-project-assignment-g0302/blob/main/docs/screenshots/multiplayerJogo.PNG)
-![menuWinmultiplayer](https://github.com/FEUP-LDTS-2021/ldts-project-assignment-g0302/blob/main/docs/screenshots/menuWinmultiplayer.PNG)
-![menuCreative](https://github.com/FEUP-LDTS-2021/ldts-project-assignment-g0302/blob/main/docs/screenshots/menuCreative.PNG)
-![leaderboardMenu](https://github.com/FEUP-LDTS-2021/ldts-project-assignment-g0302/blob/main/docs/screenshots/leaderboardMenu.PNG)
-![instrucoesJogo](https://github.com/FEUP-LDTS-2021/ldts-project-assignment-g0302/blob/main/docs/screenshots/instrucoesJogo.PNG)
+![mainMenu](https://github.com/rafazalves/SnakeGameWithLanterna/blob/main/docs/screenshots/mainMenu.PNG)
+![tamanhoeScoreAumenta](https://github.com/rafazalves/SnakeGameWithLanterna/blob/main/docs/screenshots/tamanhoeScoreAumenta.PNG)
+![perdeEmbaterObstaculo](https://github.com/rafazalves/SnakeGameWithLanterna/blob/main/docs/screenshots/perdeEmbaterObstaculo.PNG)
+![levelWinMenu](https://github.com/rafazalves/SnakeGameWithLanterna/blob/main/docs/screenshots/levelWinMenu.PNG)
+![multiplayerJogo](https://github.com/rafazalves/SnakeGameWithLanterna/blob/main/docs/screenshots/multiplayerJogo.PNG)
+![menuWinmultiplayer](https://github.com/rafazalves/SnakeGameWithLanterna/blob/main/docs/screenshots/menuWinmultiplayer.PNG)
+![menuCreative](https://github.com/rafazalves/SnakeGameWithLanterna/blob/main/docs/screenshots/menuCreative.PNG)
+![leaderboardMenu](https://github.com/rafazalves/SnakeGameWithLanterna/blob/main/docs/screenshots/leaderboardMenu.PNG)
+![instrucoesJogo](https://github.com/rafazalves/SnakeGameWithLanterna/blob/main/docs/screenshots/instrucoesJogo.PNG)
 
 ### PLANNED FEATURES
 
