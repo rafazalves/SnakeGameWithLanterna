@@ -54,7 +54,7 @@ quando o seu estado interno muda (tecla do teclado é pressionada).
 
 **Implementation**
 
-![state](https://github.com/FEUP-LDTS-2021/ldts-project-assignment-g0302/blob/main/docs/screenshots/state.png)
+![state](https://github.com/rafazalves/SnakeGameWithLanterna/blob/main/docs/screenshots/state.png)
 
 **Consequences**
 
@@ -73,7 +73,7 @@ Aplicamos o **Command** pattern. Este pattern permite-nos transmitir a informaç
 
 **Implementation**
 
-![command](https://github.com/FEUP-LDTS-2021/ldts-project-assignment-g0302/blob/main/docs/screenshots/command.png)
+![command](https://github.com/rafazalves/SnakeGameWithLanterna/blob/main/docs/screenshots/command.png)
 
 **Consequences**
 
@@ -97,7 +97,7 @@ em duas hierarquias separadas - abstração e implementação - que podem ser de
 
 **Implementation**
 
-![bridge](https://github.com/FEUP-LDTS-2021/ldts-project-assignment-g0302/blob/main/docs/screenshots/bridge.png)
+![bridge](https://github.com/rafazalves/SnakeGameWithLanterna/blob/main/docs/screenshots/bridge.png)
 
 **Consequences**
 
@@ -116,7 +116,7 @@ Aplicamos o **Observer** pattern. Este pattern permite-nos saber a posição da 
 
 **Implementation**
 
-![observer](https://github.com/FEUP-LDTS-2021/ldts-project-assignment-g0302/blob/main/docs/screenshots/Observer.png)
+![observer](https://github.com/rafazalves/SnakeGameWithLanterna/blob/main/docs/screenshots/Observer.png)
 
 **Consequences**
 
@@ -138,7 +138,7 @@ Aplicamos o **Strategy** pattern. Este pattern permite-nos fazer alterações na
 
 **Implementation**
 
-![strategy](https://github.com/FEUP-LDTS-2021/ldts-project-assignment-g0302/blob/main/docs/screenshots/Strategy.png)
+![strategy](https://github.com/rafazalves/SnakeGameWithLanterna/blob/main/docs/screenshots/Strategy.png)
 
 **Consequences**
 
@@ -179,12 +179,11 @@ Uma solução seria criar uma classe geral que conseguissemos aplicar às duas S
 
 #### **Screenshot of coverage report**
 
-![SnakeTest](https://github.com/FEUP-LDTS-2021/ldts-project-assignment-g0302/blob/main/docs/screenshots/SnakeTest.jpg)
+![SnakeTest](https://github.com/rafazalves/SnakeGameWithLanterna/blob/main/docs/screenshots/SnakeTest.jpg)
 
 #### **Link to mutation testing report and screenhot**
 
-[Mutation Report](/Users/nelinho_8/Desktop/snake/build/reports/pitest/202201251340/index.html)  
-![MutationReport](https://github.com/FEUP-LDTS-2021/ldts-project-assignment-g0302/blob/main/docs/screenshots/PITEST.png)
+![MutationReport](https://github.com/rafazalves/SnakeGameWithLanterna/blob/main/docs/screenshots/PITEST.png)
 
 ### SELF-EVALUATION
 
